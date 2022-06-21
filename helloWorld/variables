@@ -1,0 +1,7 @@
+num = 12
+marks = 75.5
+name = "ABC"
+
+print(num)
+print(marks)
+print(name)
